@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<buildings
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="buildings.xsd">
+	<building buildingName="King Olympic Hall">
+		<position latitude="34.024547" longitude="-118.288"/>
+		<address streetNo="1027" streetName="W 34th St" city="Los Angeles" state="CA" zip="90007"/>
+		<buildingCode>KOH</buildingCode>
+	</building>
+	<building buildingName="King Olympic Hall">
+		<position latitude="34.024547" longitude="-118.288"/>
+		<address streetNo="1027" streetName="W 34th St" city="Los Angeles" state="CA" zip="90007"/>
+		<buildingCode>CFX</buildingCode>
+	</building>
+	<building buildingName="JEP House">
+		<position latitude="34.022947" longitude="-118.284"/>
+		<address streetNo="801" streetName="W 34th St" city="Los Angeles" state="CA" zip="90089"/>
+		<buildingCode>JEP</buildingCode>
+	</building>
+	<building buildingName="Student Health Center">
+		<position latitude="34.023303" longitude="-118.285"/>
+		<address streetNo="849" streetName="W 34th St" city="Los Angeles" state="CA" zip="90089"/>
+		<buildingCode>SHC</buildingCode>
+	</building>
+	<building buildingName="Leavey Library">
+		<position latitude="34.021595" longitude="-118.282"/>
+		<address streetNo="651" streetName="W 35th St" city="Los Angeles" state="CA" zip="90089"/>
+		<buildingCode>LVY</buildingCode>
+	</building>
+	<building buildingName="Von KleinSmid Center">
+		<position latitude="34.021649" longitude="-118.284"/>
+		<address streetNo="3518" streetName="Trousdale" city="Los Angeles" state="CA" zip="90089"/>
+		<buildingCode>VKC</buildingCode>
+	</building>
+	<building buildingName="Waite Phillips Hall">
+		<position latitude="34.022289" longitude="-118.284"/>
+		<address streetNo="3550" streetName="Trousdale" city="Los Angeles" state="CA" zip="90089"/>
+		<buildingCode>WPH</buildingCode>
+	</building>
+	<building buildingName="John Hubbard Hall">
+		<position latitude="34.020101" longitude="-118.284"/>
+		<address streetNo="615" streetName="Childs Way" city="Los Angeles" state="CA" zip="90089"/>
+		<buildingCode>JHH</buildingCode>
+	</building>
+	<building buildingName="Registration Builing">
+		<position latitude="34.019603" longitude="-118.282"/>
+		<address streetNo="611" streetName="Childs Way" city="Los Angeles" state="CA" zip="90089"/>
+		<buildingCode>REG</buildingCode>
+	</building>
+	<building buildingName="Student Union">
+		<position latitude="34.020226" longitude="-118.282"/>
+		<address streetNo="3551" streetName="Trousdale" city="Los Angeles" state="CA" zip="90089"/>
+		<buildingCode>STU</buildingCode>
+	</building>
+	<building buildingName="Bookstore">
+		<position latitude="34.020635" longitude="-118.286"/>
+		<address streetNo="840" streetName="Childs Way" city="Los Angeles" state="CA" zip="90089"/>
+		<buildingCode>BKS</buildingCode>
+	</building>
+	<building buildingName="Ronald Tutor Hall">
+		<position latitude="34.020137" longitude="-118.29"/>
+		<address streetNo="3710" streetName="McClintock" city="Los Angeles" state="CA" zip="90089"/>
+		<buildingCode>RTH</buildingCode>
+	</building>
+	<building buildingName="Salvatori Com. Center">
+		<position latitude="34.01955" longitude="-118.289"/>
+		<address streetNo="941" streetName="W 37th Place" city="Los Angeles" state="CA" zip="90089"/>
+		<buildingCode>SAL</buildingCode>
+	</building>
+	<building buildingName="Electrical Engr Center">
+		<position latitude="34.019728" longitude="-118.29"/>
+		<address streetNo="3715" streetName="McClintock" city="Los Angeles" state="CA" zip="90089"/>
+		<buildingCode>EEB</buildingCode>
+	</building>
+	<building buildingName="Olin Hall Engineering">
+		<position latitude="34.020493" longitude="-118.29"/>
+		<address streetNo="3650" streetName="McClintock" city="Los Angeles" state="CA" zip="90089"/>
+		<buildingCode>OHE</buildingCode>
+	</building>
+
+</buildings>

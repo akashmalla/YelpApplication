@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<students
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="students.xsd">
+	<student ssn="111-00-1111" name="Rylan" dob="1968-04-01" gender="M" type="Both">
+		<phoneNumber>213-740-1111</phoneNumber>
+		<phoneNumber>213-740-1112</phoneNumber>
+		<buildingCode>CFX</buildingCode>
+		<buildingCode>JEP</buildingCode>
+	</student>
+	<student ssn="111-00-2222" name="Joshua" dob="1970-04-01" gender="M" type="Both">
+		<phoneNumber>213-740-2222</phoneNumber>
+		<buildingCode>RTH</buildingCode>
+		<buildingCode>OHE</buildingCode>
+	</student>
+	<student ssn="111-00-3333" name="Allen" dob="1969-04-01" gender="F" type="Both">
+		<phoneNumber>213-740-3333</phoneNumber>
+		<buildingCode>RTH</buildingCode>
+	</student>
+	<student ssn="111-00-4444" name="Aidan" dob="1985-04-01" gender="M" type="Both">
+		<phoneNumber>213-740-4444</phoneNumber>
+		<phoneNumber>213-740-4445</phoneNumber>
+		<buildingCode>JHH</buildingCode>
+		<buildingCode>REG</buildingCode>
+	</student>
+	<student ssn="111-00-5555" name="Aiden" dob="1982-04-01" gender="M" type="Both">
+		<phoneNumber>213-740-5555</phoneNumber>
+		<buildingCode>LVY</buildingCode>
+		<buildingCode>VKC</buildingCode>
+		<buildingCode>WPH</buildingCode>
+		<buildingCode>KOH</buildingCode>
+	</student>
+	<student ssn="111-00-6666" name="Barak" dob="1979-04-01" gender="F" type="Master">
+		<phoneNumber>213-740-6666</phoneNumber>
+	</student>
+	<student ssn="111-00-7777" name="Basil" dob="1978-04-01" gender="M" type="Master">
+		<phoneNumber>213-740-7777</phoneNumber>
+		<buildingCode>LVY</buildingCode>
+		<buildingCode>VKC</buildingCode>
+		<buildingCode>WPH</buildingCode>
+	</student>
+	<student ssn="111-00-8888" name="Cayden" dob="1975-04-01" gender="F" type="Master">
+		<phoneNumber>213-740-8888</phoneNumber>
+		<phoneNumber>213-740-8889</phoneNumber>
+		<buildingCode>RTH</buildingCode>
+		<buildingCode>SAL</buildingCode>
+		<buildingCode>OHE</buildingCode>
+	</student>
+	<student ssn="111-00-9999" name="Brendon" dob="1972-04-01" gender="M" type="Master">
+		<phoneNumber>213-740-9999</phoneNumber>
+		<buildingCode>RTH</buildingCode>
+		<buildingCode>SAL</buildingCode>
+	</student>
+	<student ssn="111-00-0000" name="Nate" dob="1973-04-01" gender="M" type="Master">
+		<phoneNumber>213-740-0000</phoneNumber>
+	</student>
+	<student ssn="111-01-1111" name="Hannah" dob="1965-04-01" gender="F" type="Master">
+		<phoneNumber>213-741-1111</phoneNumber>
+		<buildingCode>RTH</buildingCode>
+		<buildingCode>SAL</buildingCode>
+		<buildingCode>OHE</buildingCode>
+	</student>
+	<student ssn="111-01-2222" name="Zoe" dob="1962-04-01" gender="F" type="Master">
+		<phoneNumber>213-741-2222</phoneNumber>
+		<buildingCode>CFX</buildingCode>
+		<buildingCode>STU</buildingCode>
+		<buildingCode>BKS</buildingCode>
+	</student>
+	<student ssn="111-01-3333" name="Alexis" dob="1963-04-01" gender="M" type="Phd">
+		<phoneNumber>213-741-3333</phoneNumber>
+	</student>
+	<student ssn="111-01-4444" name="Madison" dob="1975-04-01" gender="F" type="Phd">
+		<phoneNumber>213-741-4444</phoneNumber>
+		<buildingCode>KOH</buildingCode>
+		<buildingCode>CFX</buildingCode>
+		<buildingCode>SAL</buildingCode>
+	</student>
+	<student ssn="111-01-5555" name="Adalgisa" dob="1976-04-01" gender="M" type="Phd">
+		<phoneNumber>213-741-5555</phoneNumber>
+		<buildingCode>CFX</buildingCode>
+	</student>
+	<student ssn="111-01-6666" name="Cora" dob="1977-04-01" gender="M" type="Phd">
+		<phoneNumber>213-741-6666</phoneNumber>
+		<phoneNumber>213-741-6667</phoneNumber>
+		<buildingCode>CFX</buildingCode>
+		<buildingCode>KOH</buildingCode>
+	</student>
+	<student ssn="111-01-7777" name="Adalia" dob="1982-04-01" gender="F" type="Phd">
+		<phoneNumber>213-741-7777</phoneNumber>
+	</student>
+	<student ssn="111-01-8888" name="Ava" dob="1983-04-01" gender="F" type="Phd">
+		<phoneNumber>213-741-8888</phoneNumber>
+		<phoneNumber>213-741-8889</phoneNumber>
+		<buildingCode>RTH</buildingCode>
+		<buildingCode>OHE</buildingCode>
+	</student>
+	<student ssn="111-01-9999" name="Celia" dob="1986-04-01" gender="M" type="Phd">
+		<phoneNumber>213-741-9999</phoneNumber>
+		<buildingCode>RTH</buildingCode>
+	</student>
+	<student ssn="111-01-0000" name="Zaida" dob="1983-04-01" gender="F" type="Phd">
+		<phoneNumber>213-741-0000</phoneNumber>
+		<buildingCode>SAL</buildingCode>
+		<buildingCode>EEB</buildingCode>
+	</student>
+</students>
